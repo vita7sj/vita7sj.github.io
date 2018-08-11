@@ -1,2 +1,5 @@
 # 欢迎光临
-<./ps/design.md>
+
+## PS
+
+<https://vita7sj.github.io/ps/design>
