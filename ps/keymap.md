@@ -7,3 +7,7 @@
 | Ctrl + Shift + N       | 新建图层-有提示框 |
 | Ctrl + Shift + Alt + N | 新建图层-无提示   |
 | Ctrl + Alt + i |打开图像大小|
+| 英文状态下   X     |  切换前景后景 |
+| Ctrl + L | 色阶 |
+| Ctrl + M | 曲线 |
+| Ctrl + U  | 色相饱和度 |
